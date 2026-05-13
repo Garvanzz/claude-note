@@ -4,7 +4,9 @@
       "Read(//c/Users/start/.claude/skills/**)",
       "Read(//c/ProgramData/**)",
       "Read(//c/Users/Public/**)",
-      "Read(//c//**)"
+      "Read(//c//**)",
+      "Bash(mkdir -p /e/self_project/claude-note/.claude/skills/记账)",
+      "Bash(cp /c/Users/wjc/.claude/skills/记账/SKILL.md /e/self_project/claude-note/.claude/skills/记账/SKILL.md)"
     ]
   }
 }
