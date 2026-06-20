@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/start/.claude/skills/**)",
+      "Read(//c/ProgramData/**)",
+      "Read(//c/Users/Public/**)",
+      "Read(//c//**)"
+    ]
+  }
+}
